@@ -1,0 +1,4 @@
+He borrado la carpeta dónde tenia el repo. 
+Me he generado una llave SSH.
+He vuelto a clonar el repo.
+Y he pusheado estos cambios.

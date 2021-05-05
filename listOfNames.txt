@@ -1,13 +1,17 @@
+
+Jael Masllorens
+Eliana Solsona
 Marta García
 Alexandra Galarza
-Anya_xo
+Anya_xo: panang curry
 Andrés Esteban Patiño Gómez
 Jael Masllorens
-Sergio Corcuera
+sergio corcuera (horchata)
 Andrea Cevallos
 leah calafell
 Andrea Suarez
 Taiza Brito
+<<<<<<< HEAD
 Joan - gaspatxo
 
 
@@ -15,7 +19,10 @@ Joan - gaspatxo
 
 
 
+=======
+>>>>>>> ec600cbb8b444eb84564c73cb40a79f0d2eba2e9
 Jose Miguel
 Jose Miguel
 Angie Flower
+Leo
 

@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+<<<<<<< HEAD
+/../../../../../:\Users\coder\GitPractice\.idea/dataSources/
+=======
+/../../../../../../:\Users\Usuario\Desktop\GitPractice\.idea/dataSources/
+>>>>>>> 44fef50bb07ee2ef6231d3cca057487bc72516c1
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

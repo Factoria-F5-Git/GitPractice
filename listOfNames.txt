@@ -12,6 +12,20 @@ Andrea Cevallos
 leah calafell
 Andrea Suarez
 Taiza Brito
+<<<<<<< HEAD
+<<<<<<< HEAD
+Joan - gaspatxo
+
+
+
+
+
+
+=======
+>>>>>>> ec600cbb8b444eb84564c73cb40a79f0d2eba2e9
+=======
+Joan - gaspatxo
+>>>>>>> 7d5b4b8e455e7977bdd2678a51f7f9ce2079fd19
 Jose Miguel
 Jose Miguel
 Angie Flower

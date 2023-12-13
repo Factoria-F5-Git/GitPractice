@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+Inno
+=======
 Laura
 Aitor
-Felix

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Inno
+=======
+Laura
+Aitor
+>>>>>>> 17459e47d55d5f7551c1c2b416fa03718c21b03e
